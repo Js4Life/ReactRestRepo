@@ -1,8 +1,5 @@
 https://client-lime.vercel.app
 
-
-
-
  // key interpolation
 const animalSound = {cat:'meow' , dog:'bark'}
 undefined
