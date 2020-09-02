@@ -66,3 +66,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+ // key interpolation
+const animalSound = {cat:'meow' , dog:'bark'}
+undefined
+const animal ='lion'
+undefined
+const sound = 'roar'
+undefined
+{...animalSound,[animal]:sound}
+{cat: "meow", dog: "bark", lion: "roar"}

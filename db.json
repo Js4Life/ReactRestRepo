@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "I created this stream",
+      "description": "This was made my me",
+      "userId": "117953874758350134678",
+      "id": 3
+    },
+    {
+      "title": "My Title",
+      "description": "My Title Description",
+      "id": 4
+    },
+    {
+      "title": "Progammatic Navigation",
+      "description": "Descriptions",
+      "id": 5
+    },
+    {
+      "title": "Me streaming component reuse",
+      "description": "Watch me123",
+      "id": 6
+    }
+  ]
+}
